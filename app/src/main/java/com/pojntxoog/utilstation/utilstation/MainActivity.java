@@ -5,9 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
-
 import com.pojntxoog.utilstation.utilstation.Util.GetJsonData;
-
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
