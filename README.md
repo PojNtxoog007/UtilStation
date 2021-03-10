@@ -5,4 +5,6 @@
 ## 二、使用文档
 ### （一）GetJsonData
 #### 功能：
-获取JsonUrl接口中的Json数据，得到Json格式的数据（方法体内有解析Json数据的代码）
+获取JsonUrl接口中的Json数据，得到Json格式的String数据（方法体内有解析Json数据的代码）
+#### 用法：
+（接口回调：详见MainActivity）
